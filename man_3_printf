@@ -85,7 +85,7 @@ of on the left with blanks or zeroes). Overrides a \fB0\fR flag.
 .B Field Width
 .in +2n
 After flags, a minimum field width may be specified by a decimal digit string.
-The first digit must be non-zero. If the converted value has fewer characters
+The first digit must be non-zero.If the converted value has fewer characters
 than the provided width, the output is padded on the left or right with spaces
 (depending on whether the \fB-\fR flag was provided).
 
